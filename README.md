@@ -1,10 +1,15 @@
 # CGC-Binaries
-Compiled set of CGC Binaries (Patched and unpatched) for experimentation purposes 
+Compiled set of CGC Binaries (Patched and unpatched) for experimentation purposes. 
+
+Contains all the Qualifying and final event binaries.  
 
 ## Decree VM
 
-Will be updating the repo with the decree VM image as well
+Reach me out on [Twitter](https://twitter.com/gkgkrishna33) for the image! 
 
+## Lists
+
+Contains txt file which has the names of a few binaries for experimentational purposes
 
 ### References
 
